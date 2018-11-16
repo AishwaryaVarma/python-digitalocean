@@ -4,7 +4,7 @@ digitalocean package
 Submodules
 ----------
 
-digitalocean.Account module
+DigitalOcean.Account module
 ---------------------------
 
 .. automodule:: digitalocean.Account
